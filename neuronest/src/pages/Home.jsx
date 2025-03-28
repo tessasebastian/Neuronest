@@ -9,13 +9,13 @@ import card3home from './card3home.png';
 import card4home from './card4home.png';
 import card5home from './card5home.png';
 import ftballhome from './ftballhome.png';
-import { Link } from 'react-router-dom'; 
+import { Link } from 'react-router-dom';
 
 const AnimatedhdthreeText = ({ animate }) => {
   //if (!animate) return null; // Render nothing until animation is triggered
 
   return (
-    <TypeAnimation
+    <TypeAnimation ninte git open akiye
       sequence={[
         'Track Progress', // First line
         1000, // Pause for 1 second
