@@ -1,6 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-body{
+/*body{
   background-color: rgb(241, 245, 241);
+}*/
+
+body{
+  background-image: url('https://atc.cognitivebotics.com/assets/images/cb-images/cognitivebotics_login_bg.svg');
 }
+
+/*body.home-page {
+  background-image: none; /* Or set it to a different value if needed */
+  /*background-color: #ffffff; /* Optional: Set a background color */
+/*}*/
